@@ -2,7 +2,18 @@
 
 A flutter home page design.
 
-fetch the project and run on emulator or chrome
+Setup
+
+1-->download the project and open with android studio or vs code
+2--> download all the dependency
+3-->open emulator or connect any device or choose chrome and run the project
+
+Implementation
+
+1--> 4 cubit class and 4 state class for 4 apis
+2--> model classes for all apis responses
+3--> widgets folder for all the custom widgets 
+
 
 Screenshot
 ------------------------------------
